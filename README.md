@@ -11,3 +11,8 @@ messagingSenderId: "..."
 appId: "..."
 measurementId: "..."
 ```
+- Step 2: `npm start`
+### Contributions:
+If you want to add more I would be more than pleased to support.
+
+# Thank You
